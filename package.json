@@ -1,6 +1,6 @@
 {
   "name": "@georstat/react-native-synced-list",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "access": "public",
   "description": "React Native Synced Lists",
   "main": "lib/commonjs/index.js",
